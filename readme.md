@@ -4,13 +4,17 @@ Dixons Retail Testing Task
 This is a simple project that tests one of Dixons Retail eshop platforms for add product to basket scenario.
 
 Contact
-=======
+-------
 
-Lubor Nosek
-nosek@netium.cz
+Lubor Nosek, nosek@netium.cz
+
+Video of project in action
+--------------------------
+
+https://vimeo.com/201038705
 
 Assignment text (as provided by head hunter)
-============================================
+--------------------------------------------
 
 Adding items to basket is critical functionality for e-shop and it must work in every case. It must work on our all three different layouts (desktop, tablet, mobile) as well.
 You’ve got testing procedure from our testing architect:
@@ -23,6 +27,8 @@ You’ve got testing procedure from our testing architect:
 
 This testing procedure must be written in PHP language and using Page Object Design Pattern.
 Please prepare all necessary Page Objects which will be working on all layouts. Switching between these layouts should be “easy”. We are plan running this test in all three modes during every run.
+
+
 
 Requirements
 ------------
@@ -52,7 +58,7 @@ Running test suite is easy, just run this command in project root:
     vendor/bin/tester -c tests/php.ini tests
 
 Out of scope problems
-=====================
+---------------------
 
 As this is just a simple assignment from head hunter, I haven't given it thorough foundation.
 
