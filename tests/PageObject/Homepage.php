@@ -24,7 +24,7 @@ class Homepage
 
         $selector = 'i.icon-reorder';
 
-        if ($this->driver->driverType == 'desktop')
+        if ($this->driver->driverType == DriverFactory::DESKTOP)
         {
             $selector = '#desktop-nav a[data-di-id="di-id-b732b89e-c866d4be"]';
         }
