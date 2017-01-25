@@ -3,6 +3,12 @@ Dixons Retail Testing Task
 
 This is a simple project that tests one of Dixons Retail eshop platforms for add product to basket scenario.
 
+Contact
+=======
+
+Lubor Nosek
+nosek@netium.cz
+
 Assignment text (as provided by head hunter)
 ============================================
 
