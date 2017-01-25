@@ -33,10 +33,10 @@ Please prepare all necessary Page Objects which will be working on all layouts. 
 Requirements
 ------------
 
-PHP 5.3.1 or higher
-Composer
-Selenium Server
-Chrome driver
+- PHP 5.3.1 or higher
+- Composer
+- Selenium Server
+- Chrome driver
 
 Running
 -------
